@@ -1,0 +1,7 @@
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\bin\Debug\Qno-03.exe.config
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\bin\Debug\Qno-03.exe
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\bin\Debug\Qno-03.pdb
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\obj\Debug\Qno-03.csproj.AssemblyReference.cache
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\obj\Debug\Qno-03.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\obj\Debug\Qno-03.exe
+C:\Infinite_training24\Training\coding_test\Qno-03\Qno-03\obj\Debug\Qno-03.pdb

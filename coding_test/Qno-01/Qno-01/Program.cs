@@ -29,6 +29,8 @@ namespace Qno_01
                     {
                         Console.WriteLine("Invalid position. Character not removed.");
                         return input;
+                   
+                        Console.ReadKey();
                     }
 
 

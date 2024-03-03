@@ -1,0 +1,7 @@
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\bin\Debug\Loops.exe
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\bin\Debug\Loops.pdb
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\obj\Debug\Loops.exe
+C:\Infinite_training24\Training\CSharp\Day2\Loops\Loops\Loops\obj\Debug\Loops.pdb

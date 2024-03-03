@@ -1,0 +1,6 @@
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\bin\Debug\StaticInstance.exe.config
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\bin\Debug\StaticInstance.exe
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\bin\Debug\StaticInstance.pdb
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\obj\Debug\StaticInstance.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\obj\Debug\StaticInstance.exe
+C:\Infinite_training24\Training\CSharp\Day2\StaticInstance\StaticInstance\obj\Debug\StaticInstance.pdb

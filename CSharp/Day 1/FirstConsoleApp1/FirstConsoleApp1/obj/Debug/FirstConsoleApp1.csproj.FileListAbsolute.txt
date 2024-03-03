@@ -1,0 +1,7 @@
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.exe.config
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.exe
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.pdb
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.csproj.AssemblyReference.cache
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.exe
+C:\Infinite_training24\Training\CSharp\FirstConsoleApp1\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.pdb
