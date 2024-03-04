@@ -1,6 +1,0 @@
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\obj\Debug\Dotnet_Day06.csproj.CoreCompileInputs.cache
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\bin\Debug\Dotnet_Day06.exe.config
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\bin\Debug\Dotnet_Day06.exe
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\bin\Debug\Dotnet_Day06.pdb
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\obj\Debug\Dotnet_Day06.exe
-C:\Infinite_training24\Training\CSharp\Day6\Dotnet_Day06\Dotnet_Day06\obj\Debug\Dotnet_Day06.pdb
