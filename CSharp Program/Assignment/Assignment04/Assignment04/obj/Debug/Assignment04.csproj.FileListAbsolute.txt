@@ -1,0 +1,10 @@
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.AssemblyReference.cache
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\bin\Debug\ConcessionLibrary.dll
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\bin\Debug\ConcessionLibrary.pdb
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CopyComplete
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\Assignment04\obj\Debug\Assignment04.pdb

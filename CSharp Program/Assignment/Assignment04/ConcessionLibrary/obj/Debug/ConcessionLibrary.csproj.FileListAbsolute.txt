@@ -1,0 +1,6 @@
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\bin\Debug\ConcessionLibrary.dll
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\bin\Debug\ConcessionLibrary.pdb
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\obj\Debug\ConcessionLibrary.csproj.AssemblyReference.cache
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\obj\Debug\ConcessionLibrary.csproj.CoreCompileInputs.cache
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\obj\Debug\ConcessionLibrary.dll
+C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment04\ConcessionLibrary\obj\Debug\ConcessionLibrary.pdb

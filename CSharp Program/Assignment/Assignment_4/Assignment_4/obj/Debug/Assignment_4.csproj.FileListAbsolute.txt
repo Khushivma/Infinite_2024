@@ -1,6 +1,0 @@
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.CoreCompileInputs.cache
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
-C:\Infinite_training24\Training\CSharp Program\Assignment\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
