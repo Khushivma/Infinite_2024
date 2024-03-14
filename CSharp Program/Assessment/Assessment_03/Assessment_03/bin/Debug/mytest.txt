@@ -1,0 +1,3 @@
+Hello and Welcome Everyone
+This is my first content
+of the text file mytest.txt
