@@ -2,6 +2,8 @@ create database Companydb
 
 use Companydb
 
+--CLIENT DETAILS-------------------------------------------------------------------------------------
+
 create table client
 (
 Client_id int primary key , 
@@ -17,6 +19,10 @@ insert into client values
 (1004, 'Lawful Corp', 'Chennai', 'justice@lawful.com', 9210342219, 'Professional');
 
 select * from client
+
+----------------------------------------------------------------------------------------------------------------------
+
+----EMPLOYEES DETAILS-------------------------------------------------------------------------------------------------
 
 create table Employees(
 Empno int primary key,
@@ -42,6 +48,10 @@ insert into Employees values
 
 select * from Employees
 
+------------------------------------------------------------------------------------------------------------------------
+
+---DEPARTMENTS DETAILS -------------------------------------------------------------------------------------------------
+
 create table Departments (
     Deptno int PRIMARY KEY,
     Dname varchar(15) NOT NULL,
@@ -55,6 +65,10 @@ insert into Departments values
 (40, 'Document', 'Mumbai');
 
 select * from Departments
+
+------------------------------------------------------------------------------------------------------------------------
+
+--PROJECTS DETAILS------------------------------------------------------------------------------------------------------
 
 create table Projects (
     Project_ID int primary key,
@@ -74,6 +88,10 @@ insert into Projects values
 (404, 'Contact Mgmt', '2011-11-01', '2011-12-31', NULL, 50000, 1004);
 
 select * from Projects
+
+-------------------------------------------------------------------------------------------------------------------------
+
+---EMPLOYEES PROJECT TASKS-----------------------------------------------------------------------------------------------
 
 create table EmpProjectTasks (
     Project_id int,	
@@ -102,5 +120,7 @@ insert into EmpProjectTasks values
 (402, 7004, '2011-10-01', NULL, 'Coding', 'In Progress')
 
 select * from EmpProjectTasks
+
+--------------------------------------------------------------------------------------------------------------------------
 
 sp_help EmpProjectTasks
