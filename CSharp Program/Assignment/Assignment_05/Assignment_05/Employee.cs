@@ -34,15 +34,19 @@ namespace Assignment_05
         {
             Console.WriteLine("Employee Id:");
             int empId = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Employee Name:");
             string empName = Console.ReadLine();
+
             Console.WriteLine("Employee Salary:");
             double salary = Convert.ToDouble(Console.ReadLine());
+
             Console.WriteLine("Employee wages:");
             double wages = Convert.ToDouble(Console.ReadLine());
 
 
             ParttimeEmployee pt = new ParttimeEmployee(empId, empName, salary, wages);
+
             Console.WriteLine($"Employee Id: {pt.Empid}, Employee Name: {pt.Empname}, Employee Salary: {pt.Salary}, Employee Wages: {pt.Wages}");
             Console.Read();
 
