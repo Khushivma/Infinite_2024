@@ -95,5 +95,5 @@ BEGIN
         ROLLBACK TRANSACTION;
     END
 END
-
+Delete from Empl where Empno = 4500
 Insert into Empl values(4500,'KHUSHI','MANAGER',9500,'2023-08-25',5000,null,30)

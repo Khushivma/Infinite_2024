@@ -1,6 +1,6 @@
-create database Assignment_02;
+create database Assignments;
 
-use Assignment_02;
+use Assignments;
 
 --Creating the Employees Details-------------------------------------------------------------------------------------------------
 
