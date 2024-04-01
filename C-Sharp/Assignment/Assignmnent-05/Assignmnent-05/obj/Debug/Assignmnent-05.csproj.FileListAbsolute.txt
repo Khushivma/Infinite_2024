@@ -1,6 +1,0 @@
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\bin\Debug\Assignmnent-05.exe.config
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\bin\Debug\Assignmnent-05.exe
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\bin\Debug\Assignmnent-05.pdb
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\obj\Debug\Assignmnent-05.csproj.CoreCompileInputs.cache
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\obj\Debug\Assignmnent-05.exe
-C:\Training_C#\C-Sharp\Assignment\Assignmnent-05\Assignmnent-05\obj\Debug\Assignmnent-05.pdb

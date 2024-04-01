@@ -1,6 +1,0 @@
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\bin\Debug\Assessment-03.exe.config
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\bin\Debug\Assessment-03.exe
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\bin\Debug\Assessment-03.pdb
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\obj\Debug\Assessment-03.csproj.CoreCompileInputs.cache
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\obj\Debug\Assessment-03.exe
-C:\Training_C#\C-Sharp\Assessment\Assessment-03\Assessment-03\obj\Debug\Assessment-03.pdb

@@ -1,7 +1,0 @@
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\bin\Debug\Assignments01.exe.config
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\bin\Debug\Assignments01.exe
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\bin\Debug\Assignments01.pdb
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\obj\Debug\Assignments01.csproj.AssemblyReference.cache
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\obj\Debug\Assignments01.csproj.CoreCompileInputs.cache
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\obj\Debug\Assignments01.exe
-C:\Training_C#\C-Sharp\Assignment\Assignments01\Assignments01\obj\Debug\Assignments01.pdb
