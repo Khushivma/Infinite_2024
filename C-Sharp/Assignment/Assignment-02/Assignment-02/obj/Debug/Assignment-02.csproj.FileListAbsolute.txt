@@ -1,0 +1,6 @@
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\bin\Debug\Assignment-02.exe.config
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\bin\Debug\Assignment-02.exe
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\bin\Debug\Assignment-02.pdb
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\obj\Debug\Assignment-02.csproj.CoreCompileInputs.cache
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\obj\Debug\Assignment-02.exe
+C:\Training_C#\C-Sharp\Assignment\Assignment-02\Assignment-02\obj\Debug\Assignment-02.pdb

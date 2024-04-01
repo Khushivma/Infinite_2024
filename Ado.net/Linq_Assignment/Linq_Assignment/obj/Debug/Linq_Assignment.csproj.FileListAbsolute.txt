@@ -1,0 +1,7 @@
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.exe.config
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.exe
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.pdb
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.AssemblyReference.cache
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.CoreCompileInputs.cache
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.exe
+C:\Training_C#\Ado.net\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.pdb
