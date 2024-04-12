@@ -13,6 +13,8 @@ CREATE TABLE Employee_Details (
 );
 
 -- 2. Create a stored procedure to add new rows to the Employee_Details Table
+drop PROCEDURE AddEmployee
+
 
 CREATE PROCEDURE AddEmployee
     @EmpName VARCHAR(50),
@@ -32,7 +34,7 @@ END
 
 -- Check the procedure
 
-EXEC AddEmployee 'John', 30000.00, 'P';
+EXEC AddEmployee 'Ananya', 45000.00, 'C';
 
 -- 4. Display all employee rows
 
