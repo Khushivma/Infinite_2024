@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Place Order";
+}
+
+<h2>Place Order</h2>
+
+<form asp-controller="Order" asp-action="PlaceOrder" method="post">
+    <div class="form-group">
+        <label for="customerId">Customer ID:</label>
+        <input type="text" class="form-control" id="customerId" name="customerId" required>
+    </div>
+    <div class="form-group">
+        <label for="orderDate">Order Date:</label>
+        <input type="date" class="form-control" id="orderDate" name="orderDate" required>
+    </div>
+    <div class="form-group">
+        <label for="totalAmount">Total Amount:</label>
+        <input type="number" class="form-control" id="totalAmount" name="totalAmount" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Place Order</button>
+</form>
